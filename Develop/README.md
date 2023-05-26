@@ -1,24 +1,30 @@
 # readme
 
+## License
+MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
+https://github.com/github/choosealicense.com/blob/gh-pages/_licenses/mit-0.txt
+
+
+
+
 ## description
-readit
+a readme generator
 
 ## installation
-yes
+download node modules. run npm i and your ready to go
 
 ## usage
-no
+use on terminal
 
 ## contribution 
-no
+na
 
 ## testing
-maybe
+na
 
-## License
-  MIT
 
- ## About
+## About
 
 email: dawson120@live.com
 github: DawsonBolen
