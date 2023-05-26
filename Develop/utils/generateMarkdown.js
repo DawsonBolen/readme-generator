@@ -40,7 +40,7 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
 ## License
-${data.license}
+${data.license} <br>
 ${renderLicenseBadge(data.license)} <br>
 ${renderLicenseLink(data.license)}
 
